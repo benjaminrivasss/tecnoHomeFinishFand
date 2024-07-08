@@ -99,6 +99,8 @@ nav ul li a:hover {
 }
 
 .puertoMadryn h2 {
+  justify-content: center;
+  align-items: start;
   background-color: #f1f1f1;
   padding: 20px;
   text-align: center;
@@ -107,6 +109,8 @@ nav ul li a:hover {
 }
 
 .map {
+ justify-content: left;
+ align-items: center;
   background-color: #f1f1f1;
   padding: 20px;
 }
