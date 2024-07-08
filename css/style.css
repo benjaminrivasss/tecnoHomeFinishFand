@@ -92,6 +92,7 @@ nav ul li a:hover {
 }
 
 .puertoMadryn {
+  display: flex;
   background-color: #edf1f1;
   grid-gap: 10px;
   padding: 10px;
@@ -111,6 +112,8 @@ nav ul li a:hover {
 }
 
 .map-paragraph {
+  align-items: center;
+  justify-content: end;
   background-color: #f1f1f1;
   padding: 20px;
 }
