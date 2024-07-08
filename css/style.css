@@ -116,6 +116,7 @@ nav ul li a:hover {
 }
 
 .footer {
+  font-size: 10px;
   height: 10rem;
   width: 100%;
   background-color: #edf1f1;
@@ -125,7 +126,6 @@ nav ul li a:hover {
 }
 
 .footer p {
- font-size: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
