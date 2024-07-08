@@ -109,6 +109,7 @@ nav ul li a:hover {
 }
 
 .map {
+  display: flex;
   height: 3rem;
   width: 3rem;
  justify-content: left;
@@ -118,6 +119,7 @@ nav ul li a:hover {
 }
 
 .map-paragraph {
+  display: flex;
   align-items: center;
   justify-content: end;
   background-color: #f1f1f1;
