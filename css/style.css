@@ -125,9 +125,8 @@ nav ul li a:hover {
 }
 
 .footer p {
- font-size: 10px;
+ font-size: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%;
 }
