@@ -110,6 +110,8 @@ nav ul li a:hover {
 }
 
 .map {
+  height: 6rem;
+  width: 6rem;
  justify-content: left;
  align-items: center;
   background-color: #f1f1f1;
